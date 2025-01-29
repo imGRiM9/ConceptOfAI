@@ -1,3 +1,4 @@
 # ConceptOfAI
-Worsheet 1 - Numpy
-Worksheet 2 - Pandas
+Numpy - Worsheet 1 
+Pandas - Worksheet 2 
+
